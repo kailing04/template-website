@@ -1,4 +1,4 @@
-# This is a heading
+# My code
 
 Replace
 
@@ -14,7 +14,7 @@ with your own code below. You can also add text above or below but don't modify 
 <script src="https://cdn.jsdelivr.net/npm/skulpt@1.2.0/dist/skulpt-stdlib.js" type="text/javascript"></script> 
 
 <script type="text/javascript"> 
-function outf(text) { 
+function outf(text) { This is a heading
     var mypre = document.getElementById("output"); 
     mypre.innerHTML = mypre.innerHTML + text; 
 } 
